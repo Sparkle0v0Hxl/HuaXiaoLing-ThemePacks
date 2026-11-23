@@ -1,0 +1,17 @@
+{
+  "name": "符玄 · 太卜司",
+  "author": "花筱灵启动器",
+  "description": "以官方立绘与光锥「她已闭上双眼」为素材的符玄主题包。紫罗兰法阵、粉白长发与金色星盘。",
+  "version": "1.0.0",
+  "skin": "rose",
+  "accent": "rose",
+  "colors": {
+    "accent": "#e79ad0",
+    "accent2": "#ffd0ec",
+    "bg": "#100a16",
+    "surface": "#1c1226",
+    "text": "#fbf0f7",
+    "muted": "#ad9cb8",
+    "gold": "#ffdf9e"
+  }
+}

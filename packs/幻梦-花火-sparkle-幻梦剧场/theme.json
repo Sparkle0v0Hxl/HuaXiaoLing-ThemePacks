@@ -1,0 +1,17 @@
+{
+  "name": "花火 · 幻梦剧场",
+  "author": "花筱灵启动器",
+  "description": "以官方立绘与光锥「游戏尘寰」为素材的花火主题包。紫金剧场、红白卫衣与她的面具戏法。",
+  "version": "1.0.0",
+  "skin": "midnight",
+  "accent": "violet",
+  "colors": {
+    "accent": "#b483ff",
+    "accent2": "#dcc0ff",
+    "bg": "#0e0a18",
+    "surface": "#1a1230",
+    "text": "#f6eefb",
+    "muted": "#a294b8",
+    "gold": "#ffd98a"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "大黑塔 · 星穹观测",
+  "author": "花筱灵启动器",
+  "description": "以官方立绘与光锥「向着不可追问处」为素材的大黑塔主题包。紫金画框、钥匙与星空。",
+  "version": "1.0.0",
+  "skin": "galaxy",
+  "accent": "violet",
+  "colors": {
+    "accent": "#9d7bff",
+    "accent2": "#cdb6ff",
+    "bg": "#0b0813",
+    "surface": "#171128",
+    "text": "#f3eefc",
+    "muted": "#9d93b4",
+    "gold": "#ffd98a"
+  }
+}

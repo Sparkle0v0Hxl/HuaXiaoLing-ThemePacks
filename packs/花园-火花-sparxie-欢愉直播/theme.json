@@ -1,0 +1,17 @@
+{
+  "name": "火花 · 欢愉直播",
+  "author": "花筱灵启动器",
+  "description": "以官方立绘与光锥「花花世界迷人眼」为素材的火花主题包。银白双马尾、红黑菱格礼服与粉紫直播夜色。",
+  "version": "1.0.0",
+  "skin": "sakura",
+  "accent": "spark",
+  "colors": {
+    "accent": "#ff5c8a",
+    "accent2": "#ffb0cc",
+    "bg": "#140a14",
+    "surface": "#231029",
+    "text": "#fbeef7",
+    "muted": "#a992ac",
+    "gold": "#ffd98a"
+  }
+}

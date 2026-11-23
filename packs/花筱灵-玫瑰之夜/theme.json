@@ -1,0 +1,17 @@
+{
+  "name": "花筱灵 · 玫瑰之夜",
+  "author": "花筱灵启动器",
+  "description": "以 logo 的紫玫瑰与酒红为主色：深紫夜空底、樱粉文字、玫瑰强调色。只带配色，图片沿用内置那套。",
+  "version": "1.0.0",
+  "skin": "rose",
+  "accent": "rose",
+  "colors": {
+    "accent": "#f08ba6",
+    "accent2": "#da83b1",
+    "bg": "#0d0710",
+    "surface": "#170e1b",
+    "text": "#f7e8f4",
+    "muted": "#a992a6",
+    "gold": "#ffe2a8"
+  }
+}

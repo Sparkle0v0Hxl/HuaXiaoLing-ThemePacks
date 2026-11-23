@@ -1,0 +1,14 @@
+# 下载产物、系统垃圾
+*.zip
+!packs/**/*.zip
+*.7z
+*.tmp
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# 编辑器 / 系统缓存
+.vscode/
+.idea/
+__pycache__/
+node_modules/
